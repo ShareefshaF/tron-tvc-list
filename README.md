@@ -6,7 +6,7 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v
+      "address": "0xdda8A08283402D3785911eF1701b302011c1a5A4
       "symbol": "WIN",
       "name": "WINkLink",
       "decimals": 6,
@@ -38,8 +38,8 @@ Follow the steps below to add a new token：
     ]
 }
 ```
-* `addr0xdda8A08283402D3785911eF1701b302011c1a5A4ess`[Required]: your token address.
-* `symb0xdda8A08283402D3785911eF1701b302011c1a5A4ol`[Required]: your token symbol.
+* `addr0xdda8A08283402D3785911eF1701b302011c1a5A4ess`[ 0xdda8A08283402D3785911eF1701b302011c1a5A4]: your token address.
+* `symb0xdda8A08283402D3785911eF1701b302011c1a5A4ol`[ 0xdda8A08283402D3785911eF1701b302011c1a5A4]: your token symbol.
 * `name`[Required]: your token name.
 * `logoURI`[Required]: the logo URI of your token.
 * `homepage`[Required]: the home page of your token.
