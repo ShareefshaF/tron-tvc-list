@@ -6,7 +6,7 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+      "address": "T.0xdda8A08283402D3785911eF1701b302011c1a5A4  ",
       "symbol": "WIN",
       "name": "WINkLink",
       "decimals": 6,
@@ -38,12 +38,12 @@ Follow the steps below to add a new token：
     ]
 }
 ```
-* `address`[Required]: your token address.
+* `address`[    0xdda8A08283402D3785911eF1701b302011c1a5A4  ]: your token address.
 * `symbol`[Required]: your token symbol.
 * `name`[Required]: your token name.
 * `logoURI`[Required]: the logo URI of your token.
 * `homepage`[Required]: the home page of your token.
-* `MarketCapLink`[Optional]: the coinmarketcap or coingecko link for your token.
+* `MarketCapLink`[Optional]: the coinm0xdda8A08283402D3785911eF1701b302011c1a5A4ecko link for your token.
 * `existingMarkets`[Required]: where to trade with your token.
 3) Submit PR with the changed JSON file.
 
